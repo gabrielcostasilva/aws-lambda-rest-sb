@@ -1,5 +1,6 @@
 https://youtu.be/GGPPkUcHleQ
 
+https://www.baeldung.com/spring-boot-aws-lambda
 
 # rest-serverless serverless API
 The rest-serverless project, created with [`aws-serverless-java-container`](https://github.com/awslabs/aws-serverless-java-container).
